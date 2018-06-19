@@ -36,7 +36,7 @@ if (isset($_GET['number'])) {
 <body>
 <form action="index.php">
     <input type="number" placeholder="Введите число" name="number" required>
-    <input type="submit">
+    <button type="submit">Проверить</button>
 </form>
 
 <?php if (isset($num)) : ?>
