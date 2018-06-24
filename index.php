@@ -16,8 +16,8 @@ function number($x) {
 
 if (isset($_GET['number'])) {
     $num = $_GET['number'];
-    $inNumberRow = "задуманное число " . $num . " входит в числовой ряд";
-    $notInNumberRow = "задуманное число " . $num . " НЕ входит в числовой ряд";
+    $inNumberRow = "Задуманное число " . $num . " входит в числовой ряд Фибоначчи";
+    $notInNumberRow = "Задуманное число " . $num . " НЕ входит в числовой ряд Фибоначчи";
 }
 
 ?>
