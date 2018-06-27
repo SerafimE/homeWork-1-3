@@ -3,7 +3,7 @@
  * Created by PhpStorm.
  * User: Сергей Люляев
  * Date: 27.06.2018
- * Time: 20:08
+ * Time: 14:08
  */
 function number($x)
 {
