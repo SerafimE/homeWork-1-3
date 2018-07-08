@@ -1,10 +1,4 @@
 <?php
-/*
- * Created by PhpStorm.
- * User: Сергей Люляев
- * Date: 27.06.2018
- * Time: 14:08
- */
 function number($x)
 {
     $first = $second = 1;
